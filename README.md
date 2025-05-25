@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b4ef0a7c9ee4e9f6d0de3.gif" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ankit-bhagat17&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-bhagat17" />
-</p>
+
 
 - 🌱 I’m currently enhancing my skills in **Power BI, Tableau, and Advanced SQL**
 - 📫 How to reach me **bhagatankit502@gmail.com**
