@@ -31,8 +31,7 @@
 | 🔍 Project | 🧾 Description | 🛠️ Tools Used |
 |-----------|----------------|---------------|
 | [📈 Sales Analysis Dashboard](https://github.com/ankit-bhagat17/sales-analysis-dashboard) | Retail sales trends, top products, seasonal analysis | Excel, Power BI |
-| [🧮 Customer Segmentation](https://github.com/ankit-bhagat17/customer-segmentation-sql) | Grouping customers using SQL queries for marketing insights | SQL, MySQL |
-| [📊 HR Analytics](https://github.com/ankit-bhagat17/hr-analytics-dashboard) | Dashboard to analyze employee attrition and performance | Power BI, SQL |
+| [📊 Blinkit Grocery Sales Analysis](https://github.com/ankit-bhagat17/hr-analytics-dashboard) | Dashboard to analyze employee attrition and performance | Power BI, SQL |
 
 ---
 
