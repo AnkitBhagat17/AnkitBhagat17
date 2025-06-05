@@ -30,7 +30,7 @@
 
 | 🔍 Project | 🧾 Description | 🛠️ Tools Used |
 |-----------|----------------|---------------|
-| [📈 Diwali Sales Analysis Dashboard](https://github.com/ankit-bhagat17/Diwali-Sales-Analysis) | Retail sales trends, top products, seasonal analysis | Power BI |
+| [📈 Diwali Sales Analysis Dashboard](https://github.com/ankit-bhagat17/Diwali-Sales-Analysis) | Retail sales trends, top products, seasonal analysis | Matplotlib, Pandas, Numpy |
 | [📊 Blinkit Grocery Sales Analysis](https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi) | Dashboard to analyze employee attrition and performance | Power BI|
 
 ---
