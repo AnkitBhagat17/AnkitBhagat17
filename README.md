@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="60"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="excel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
@@ -31,8 +32,9 @@
 | 🔍 Project | 🧾 Description | 🛠️ Tools Used |
 |-----------|----------------|---------------|
 | [📈 Diwali Sales Analysis Dashboard](https://github.com/ankit-bhagat17/Diwali-Sales-Analysis) | Retail sales trends, top products, seasonal analysis | Matplotlib, Pandas, Numpy |
-| [📊 Blinkit Grocery Sales Analysis](https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi) | Dashboard to analyze employee attrition and performance | Power BI|
-
+| [📊 Blinkit Grocery Sales Analysis](https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi) |  This project involves creating a Sales Analysis Dashboard in Power BI using real-world grocery sales data from Blinkit.| Power BI|
+| [🌤️ Weather Dashboard ](https://ankitbhagatweatherapp.streamlit.app) | Built a real-time weather dashboard with dynamic city/state selection| Pandas, Matplotlib, NumPy, Streamlit, Seaborn |
+| [Covid-19 Analysis Dashboard ](https://covid19-analysisbyankitbhagat.streamlit.app/) | It analyze and visualize global COVID-19 data. |Python, Streamlit, Matplotlib, Pandas, Plotly Express |
 ---
 
 ## 🔗 Connect with Me
