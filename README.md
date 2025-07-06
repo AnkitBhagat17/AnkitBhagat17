@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="40" height="40"/>
-  <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-768x432.png" alt="powerbi" width="40" height="40"/>
+  <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-768x432.png" alt="powerbi" width="40" height="60"/>
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="excel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
