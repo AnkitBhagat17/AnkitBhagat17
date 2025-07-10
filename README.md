@@ -50,12 +50,12 @@
 
 <p>
   <!-- Top Languages -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBhagat17&show_icons=true&locale=en&layout=compact" alt="AnkitBhagat17" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBhagat17&show_icons=true&locale=en&layout=compact" alt="AnkitBhagat17"/>
 </p>
 
 <p>
   <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&locale=en" alt="AnkitBhagat17" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&locale=en" alt="AnkitBhagat17"/>
 </p>
 
 <p>
