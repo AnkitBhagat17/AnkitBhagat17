@@ -48,14 +48,20 @@
 
 ## 📈 GitHub Stats
 
-<!-- GitHub Top Languages -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-bhagat17&layout=compact" alt="AnkitBhagat17"/>
+<p>
+  <!-- Top Languages -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBhagat17&show_icons=true&locale=en&layout=compact" alt="AnkitBhagat17" />
+</p>
 
-<!-- GitHub Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-bhagat17&show_icons=true&locale=en" alt="AnkitBhagat17"/>
+<p>
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&locale=en" alt="AnkitBhagat17" />
+</p>
 
-<!-- GitHub Streak Stats -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-bhagat17" alt="AnkitBhagat17"/>
+<p>
+  <!-- Streak Stats -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitBhagat17" alt="AnkitBhagat17" />
+</p>
 
 
 ⭐️ If you like what I do, consider giving a star to the repositories you find useful!
