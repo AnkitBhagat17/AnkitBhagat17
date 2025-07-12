@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b4ef0a7c9ee4e9f6d0de3.gif" />
 
-
-
 - 🌱 I’m currently enhancing my skills in **Power BI, Tableau, and SQL**
 - 📫 How to reach me **bhagatankit502@gmail.com**
 - 💼 All of my projects are available on [GitHub](https://github.com/ankit-bhagat17)
@@ -22,7 +20,6 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="60"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
   <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="excel" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> -->
 </p>
 
 ---
@@ -35,6 +32,7 @@
 | [📊 Blinkit Grocery Sales Analysis](https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi) |  This project involves creating a Sales Analysis Dashboard in Power BI using real-world grocery sales data from Blinkit.| Power BI|
 | [🌤️ Weather Dashboard ](https://ankitbhagatweatherapp.streamlit.app) | Built a real-time weather dashboard with dynamic city/state selection| Pandas, Matplotlib, NumPy, Streamlit, Seaborn |
 | [Covid-19 Analysis Dashboard ](https://covid19-analysisbyankitbhagat.streamlit.app/) | It analyze and visualize global COVID-19 data. |Python, Streamlit, Matplotlib, Pandas, Plotly Express |
+
 ---
 
 ## 🔗 Connect with Me
@@ -58,15 +56,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&locale=en" alt="AnkitBhagat17"/>
 </p>
 
-<p>
-  
+---
+
 ## 🔥 GitHub Streak
-<p>
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=AnkitBhagat17&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnkitBhagat17&theme=tokyonight&hide_border=true" alt="AnkitBhagat17 streak stats" />
 </p>
 
-
-
+---
 
 ⭐️ If you like what I do, consider giving a star to the repositories you find useful!
-
