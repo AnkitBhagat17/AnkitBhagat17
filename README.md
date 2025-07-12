@@ -59,7 +59,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitBhagat17&cache_seconds=86400" alt="AnkitBhagat17" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitBhagat17" alt="AnkitBhagat17" />
+
 
 
 ⭐️ If you like what I do, consider giving a star to the repositories you find useful!
