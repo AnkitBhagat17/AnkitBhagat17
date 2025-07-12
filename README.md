@@ -60,7 +60,8 @@
 
 <p>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitBhagat17" alt="AnkitBhagat17" />
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=AnkitBhagat17)
+
 
 
 
