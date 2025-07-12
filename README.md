@@ -60,7 +60,10 @@
 
 <p>
   
- ![GitHub Streak](https://streak-stats.demolab.com/?user=AnkitBhagat17)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnkitBhagat17&theme=tokyonight&hide_border=true)
+
 
 
 
