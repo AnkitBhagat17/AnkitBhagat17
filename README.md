@@ -39,8 +39,6 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/ankitsbhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsbhagat" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/cloud_ants_00" target="blank"><img width="50" height="50" src="[https://img.icons8.com/ios/50/codechef.png(https://i.pinimg.com/474x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg)" alt="codechef"/>
-</p>
 
 ---
 
