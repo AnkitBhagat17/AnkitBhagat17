@@ -54,12 +54,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&locale=en" alt="AnkitBhagat17"/>
 </p>
 
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitBhagat17&theme=default" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AnkitBhagat17&theme=default" alt="GitHub Streak"/>
 </p>
-
 
 
 ⭐️ If you like what I do, consider giving a star to the repositories you find useful!
