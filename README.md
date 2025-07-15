@@ -59,7 +59,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitbhagat17&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ankitbhagat17&theme=default" alt="GitHub Streak"/>
 </p>
 
 ---
