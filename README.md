@@ -53,6 +53,21 @@
 </p>
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AnkitBhagat17&theme=github-dark" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&theme=github-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBhagat17&layout=compact&theme=github-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitBhagat17&theme=github-dark" alt="GitHub Activity Graph" />
+</p>
 
 
 ⭐️ If you like what I do, consider giving a star to the repositories you find useful!
