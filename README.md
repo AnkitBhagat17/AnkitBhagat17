@@ -44,24 +44,13 @@
 
 ## 📈 GitHub Stats
 
-<p>
-  <!-- Top Languages -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBhagat17&show_icons=true&locale=en&layout=compact" alt="AnkitBhagat17"/>
-</p>
-
-<p>
-  <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&locale=en" alt="AnkitBhagat17"/>
-</p>
+<p> <!-- Top Languages --> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBhagat17&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="AnkitBhagat17"/> </p> <p> <!-- GitHub Stats --> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&locale=en&theme=github_dark" alt="AnkitBhagat17"/> </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankitbhagat17&theme=default" alt="GitHub Streak"/>
-</p>
-
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=ankitbhagat17&theme=github-dark" alt="GitHub Streak"/> </p>
 ---
 
 
