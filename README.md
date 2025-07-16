@@ -47,13 +47,10 @@
 <p> <!-- Top Languages --> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBhagat17&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="AnkitBhagat17"/> </p> <p> <!-- GitHub Stats --> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&locale=en&theme=github_dark" alt="AnkitBhagat17"/> </p>
 
 ## 🔥 GitHub Streak
-
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitbhagat17&theme=github-dark&hide_border=false" alt="GitHub Streak"/>
 </p>
-
----
-
 ---
 
 
