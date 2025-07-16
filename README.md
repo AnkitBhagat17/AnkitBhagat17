@@ -49,8 +49,9 @@
 ## 🔥 GitHub Streak
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitBhagat17&theme=github-dark"alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AnkitBhagat17&theme=github-dark" alt="GitHub Streak" />
 </p>
+
 ---
 
 
