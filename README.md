@@ -31,7 +31,6 @@
 | [📈 Diwali Sales Analysis Dashboard](https://github.com/ankit-bhagat17/Diwali-Sales-Analysis) | Retail sales trends, top products, seasonal analysis | Matplotlib, Pandas, Numpy |
 | [📊 Blinkit Grocery Sales Analysis](https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi) |  This project involves creating a Sales Analysis Dashboard in Power BI using real-world grocery sales data from Blinkit.| Power BI|
 | [🌤️ Weather Dashboard ](https://ankitbhagatweatherapp.streamlit.app) | Built a real-time weather dashboard with dynamic city/state selection| Pandas, Matplotlib, NumPy, Streamlit, Seaborn |
-| [Covid-19 Analysis Dashboard ](https://covid19-analysisbyankitbhagat.streamlit.app/) | It analyze and visualize global COVID-19 data. |Python, Streamlit, Matplotlib, Pandas, Plotly Express |
 
 ---
 
