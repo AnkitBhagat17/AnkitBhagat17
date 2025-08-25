@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently enhancing my skills in **Power BI, Tableau, and SQL**
 - 📫 How to reach me **bhagatankit502@gmail.com**
-- 💼 All of my projects are available on [GitHub](https://github.com/ankit-bhagat17)
+- 💼 All of my projects are available on [GitHub](https://github.com/AnkitBhagat17)
 - 🌐 Check out my LinkedIn profile [ankitsbhagat](https://linkedin.com/in/ankitsbhagat)
 
 ---
