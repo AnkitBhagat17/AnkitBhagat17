@@ -34,9 +34,17 @@
 ---
 
 ## 🔗 Connect with Me
+  <a href="https://linkedin.com/in/ankitsbhagat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsbhagat" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/ankitshridharbhagat" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/ankit_170504" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="codechef" height="30" width="40" />
+  </a>
+</p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/ankitsbhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsbhagat" height="30" width="40" /></a>
 
 ---
 
