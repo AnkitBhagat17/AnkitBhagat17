@@ -34,14 +34,20 @@
 ---
 
 ## 🔗 Connect with Me
+<p align="left">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ankitsbhagat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsbhagat" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/ankitshridharbhagat" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="kaggle" height="30" width="40" />
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/ankitshridharbhagat " target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+
+  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/ankit_170504" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="codechef" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
