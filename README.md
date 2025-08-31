@@ -10,8 +10,6 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
-
 - 🌱 I’m currently enhancing my skills in **Power BI, Tableau, and SQL**  
 - 📫 Reach me at **bhagatankit502@gmail.com**  
 - 💼 All of my projects are available on [GitHub](https://github.com/AnkitBhagat17)  
@@ -34,37 +32,14 @@
 
 ## 📊 Featured Projects  
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">📈 Diwali Sales Analysis Dashboard</h3>
-<p align="center">
-<a href="https://github.com/ankit-bhagat17/Diwali-Sales-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitbhagat17&repo=Diwali-Sales-Analysis&theme=radical" />
-</a>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🛒 Blinkit Grocery Sales Analysis</h3>
-<p align="center">
-<a href="https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitbhagat17&repo=Blinkit-Grocery-Sales-Analysisi&theme=radical" />
-</a>
-</p>
-</td>
-</tr>
+## 📊 Featured Projects  
 
-<tr>
-<td width="50%">
-<h3 align="center">🦠 Covid-19 Dashboard</h3>
-<p align="center">
-<a href="https://covid-19-analysis-dashboard.streamlit.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitbhagat17&repo=Covid19-Analysis&theme=radical" />
-</a>
-</p>
-</td>
-</tr>
-</table>
+| 🔍 **Project** | 🧾 **Description** | 🛠️ **Tools Used** |
+|----------------|--------------------|-------------------|
+| [📈 Diwali Sales Analysis Dashboard](https://github.com/ankit-bhagat17/Diwali-Sales-Analysis) | Retail sales trends, top products, seasonal analysis | Matplotlib, Pandas, NumPy |
+| [🛒 Blinkit Grocery Sales Analysis](https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi) | Created a Sales Analysis Dashboard in **Power BI** using real-world grocery sales data from Blinkit | Power BI |
+| [🦠 Covid-19 Dashboard](https://covid-19-analysis-dashboard.streamlit.app) | Interactive web-based dashboard built with **Streamlit** to analyze and visualize global COVID-19 data | Python, Pandas, Matplotlib, Plotly Express, Streamlit |
+
 
 ---
 
