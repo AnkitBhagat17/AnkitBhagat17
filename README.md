@@ -70,9 +70,9 @@
 
 ## 🔥 GitHub Streak  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitBhagat17&theme=tokyonight" alt="streak"/>
-</p>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=AnkitBhagat17&theme=github-dark" alt="GitHub Streak Stats" />
+</p> 
 
 ---
 
