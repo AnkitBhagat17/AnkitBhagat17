@@ -32,14 +32,11 @@
 
 ## 📊 Featured Projects  
 
-## 📊 Featured Projects  
-
 | 🔍 **Project** | 🧾 **Description** | 🛠️ **Tools Used** |
 |----------------|--------------------|-------------------|
-| [📈 Diwali Sales Analysis Dashboard](https://github.com/ankit-bhagat17/Diwali-Sales-Analysis) | Retail sales trends, top products, seasonal analysis | Matplotlib, Pandas, NumPy |
-| [🛒 Blinkit Grocery Sales Analysis](https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi) | Created a Sales Analysis Dashboard in **Power BI** using real-world grocery sales data from Blinkit | Power BI |
+| [📈 Diwali Sales Analysis Dashboard](https://github.com/AnkitBhagat17/Diwali-Sales-Analysis) | Retail sales trends, top products, seasonal analysis | Matplotlib, Pandas, NumPy |
+| [🛒 Blinkit Grocery Sales Analysis](https://github.com/AnkitBhagat17/Blinkit-Grocery-Sales-Analysisi) | Created a Sales Analysis Dashboard in **Power BI** using real-world grocery sales data from Blinkit | Power BI |
 | [🦠 Covid-19 Dashboard](https://covid-19-analysis-dashboard.streamlit.app) | Interactive web-based dashboard built with **Streamlit** to analyze and visualize global COVID-19 data | Python, Pandas, Matplotlib, Plotly Express, Streamlit |
-
 
 ---
 
@@ -62,8 +59,9 @@
 ## 📈 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitBhagat17&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitBhagat17&layout=compact&theme=tokyonight" height="180"/>
+  <!-- Replace "your-vercel-app" with your deployed Vercel app name -->
+  <img src="https://your-vercel-app.vercel.app/api?username=AnkitBhagat17&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://your-vercel-app.vercel.app/api/top-langs/?username=AnkitBhagat17&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -73,6 +71,14 @@
 <p align="center"> 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=AnkitBhagat17&theme=github-dark" alt="GitHub Streak Stats" />
 </p> 
+
+---
+
+## 📊 Profile Summary Card  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitBhagat17&theme=tokyonight" />
+</p>
 
 ---
 
