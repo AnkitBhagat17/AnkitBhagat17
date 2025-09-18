@@ -56,13 +56,20 @@
 
 ---
 
-## 📈 GitHub Stats & Activity  
+## 📈 GitHub Performance  
 
 <p align="center">
-  <!-- Replace "your-vercel-app" with your deployed Vercel app name -->
-  <img src="https://your-vercel-app.vercel.app/api?username=AnkitBhagat17&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://your-vercel-app.vercel.app/api/top-langs/?username=AnkitBhagat17&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitBhagat17&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitBhagat17&theme=github_dark" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnkitBhagat17&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnkitBhagat17&theme=github_dark&utcOffset=5" height="180"/>
+</p>
+
+
+
 
 ---
 
@@ -72,15 +79,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=AnkitBhagat17&theme=github-dark" alt="GitHub Streak Stats" />
 </p> 
 
----
-
-## 📊 Profile Summary Card  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitBhagat17&theme=tokyonight" />
-</p>
-
----
 
 ## ⚡ Fun Fact  
 
