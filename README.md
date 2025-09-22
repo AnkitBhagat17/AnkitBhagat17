@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Bhagat</h1>
-<h3 align="center">A Passionate Data Analyst from India 🚀</h3>
+<h3 align="center">Data Analyst Enthusiast 🚀</h3>
 
 <!-- Typing SVG -->
 <p align="center">
