@@ -80,8 +80,3 @@
 </p> 
 
 
-## ⚡ Fun Fact  
-
-💡 *“Data is the new oil, but insight is the spark that lights the fire.”*  
-
-⭐️ If you like what I do, don’t forget to give a star ⭐️ to my projects!  
